@@ -10,7 +10,7 @@ L’informatique m’a toujours rendu curieux, c’est naturellement que j’ai 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamienChabret&hide_progress=true" alt="Top Langs" style="width: 50%;" />
 </div>
 
-
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=DamienChabret&theme=discord)
 
 
 <!-- Liste des langages que je connais -->
