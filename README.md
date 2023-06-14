@@ -7,6 +7,8 @@ L’informatique m’a toujours rendu curieux, c’est naturellement que j’ai 
 
 
 J'aime également beaucoup travailler en écoutant de la musique ce qui me permet de me concentrer sur la tâche que je réalise à à 200%. Voici ce que j'écoute actuellement : 
+
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=zmwt911jfoq7qrn2825nxkjnt&cover_image=true&theme=default&show_offline=false&background_color=ffffff&interchange=false&bar_color=05b102&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
