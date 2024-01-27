@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=144158&height=300&section=header&text=Damien%20Chabret&fontSize=90&fontColor=ffffff)
-
 Je m’appelle Damien et je suis en troisième année de BUT Informatique.
 L’informatique m’a toujours rendu curieux, c’est naturellement que j’ai décidé de poursuivre dans cette voie dans laquelle je peux laisser place à la créativité qui est en moi.
 
