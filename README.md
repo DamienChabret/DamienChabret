@@ -1,4 +1,4 @@
-<h2 align="left"> I'm Damien, an IT Student at the IUT of Dijon. Welcome to my github page </h2>
+<h2 align="left"> Hi, here i am </h2>
 
 ###
 
